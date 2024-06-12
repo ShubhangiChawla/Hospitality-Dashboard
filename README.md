@@ -39,7 +39,7 @@ This dashboard helps A prominent hospitality company with a 20-year history of o
   
 - Step 12 : All the important parameters are displayed in a single value and Tooltips are also added which represents line chart to each parameter.
   
--Step 13 : Below the parameter there is a "%change week per week" for each parameter with Arrow icon.
+- Step 13 : Below the parameter there is a "%change week per week" for each parameter with Arrow icon.
            Using a visual level filter from the filters pane, basic filtering was used.
 
 - Step 14 : At the bottom Key Definitions were added so that it is easy to read.
